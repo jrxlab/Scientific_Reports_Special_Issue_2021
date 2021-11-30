@@ -1,9 +1,4 @@
-r"""
-How to specify paths on Windows:
-C:\Users\me\Desktop\data ircan\movie.tiff
-->
-path_t("C:") / "Users" / "me" / "Desktop" / "data ircan" / "movie.tiff"
-"""
+
 from pathlib import Path as path_t
 
 

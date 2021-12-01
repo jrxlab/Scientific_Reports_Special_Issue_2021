@@ -6,7 +6,8 @@ The proposed dynamic analysis framework is a computational pipeline which runs a
 
 ___
 
-**Note 1:** This repository is linked to a pypi project containing the main library ``cell_tracking_BC`` that is part of this submission to https://www.nature.com/srep/guestedited#imaging-of-cells-and-cellular-dynamics
+**Note 1:** This repository is linked to a pypi project containing the main library ``cell_tracking_BC`` that is part of this submission to [https://www.nature.com/srep/guestedited#imaging-of-cells-and-cellular-dynamics
+***Scientific Reports*** [*Imaging of cells and cellular dynamics* collection](https://www.nature.com/srep/guestedited#imaging-of-cells-and-cellular-dynamics) 
 
 **Note 2:** The *deep_learning_image_analysis* pipeline is still under development.
 

@@ -61,5 +61,5 @@ Ronneberger O, Fischer P, Brox T. U-Net: Convolutional Networks for Biomedical I
 
 ## Figure
 
-![Draft figure:](https://github.com/jrxlab/Scientific_Reports_Special_Issue_2021/Workflow_overview.png)
+![Draft figure:](https://github.com/jrxlab/Scientific_Reports_Special_Issue_2021/blob/main/Workflow_overview.png)
 Workflow graphical abstract

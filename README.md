@@ -58,7 +58,7 @@ Ronneberger O, Fischer P, Brox T. U-Net: Convolutional Networks for Biomedical I
 
 [cell_tracking_BC](https://pypi.org/project/cell-tracking-bc/)
 
-## Figure
+## Graphical summary of the dynamic analysis framework
 
 ![Draft figure:](https://github.com/jrxlab/Scientific_Reports_Special_Issue_2021/blob/main/Workflow_overview.png)
-Workflow graphical abstract
+*Draft figure in progress*

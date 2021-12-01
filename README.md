@@ -24,7 +24,7 @@ The following description focuses on cells (see *Note 2* above about also dealin
 
 A graphical summary of the pipeline is presented in the figure below.
 
-![Dynamic analysis pipeline - Draft](https://github.com/jrxlab/Scientific_Reports_Special_Issue_2021/blob/main/Workflow_overview.png)
+![Dynamic analysis pipeline - Draft](Workflow_overview.png)
 *Dynamic Analysis Pipeline - Draft Figure*
 
 

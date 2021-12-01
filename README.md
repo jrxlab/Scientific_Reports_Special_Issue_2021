@@ -1,5 +1,4 @@
-# Dynamic analysis framework to detect cell division and cell death on label-free microscopy time-lapses
-
+# Dynamic analysis framework to detect cell division and cell death events in live-cell imaging experiments, using signal processing and machine learning
 **Authors :** Asma Chalabi, Eric Debreuve, Jérémie Roux
 
 Our dynamic analysis framework is a computational pipeline which runs an automatic analysis on a live-cell time-lapse microscopy, to detect cell divisions and cell deaths. It requires two types of channels that are commonly used in time-lapse microscopy experiments: a fluorescent channel to segment (i.e. find the regions of) the objects of interest (not limited to nuclei, cytoplasms or whole cells), and a polarized channel to detect cell death events. Unlike other cell tracking analysis framework, this workflow does not require a specific channel for tracking nor a specific marker for cell death detection.

@@ -1,9 +1,16 @@
 # Dynamic analysis framework to detect cell division and cell death on label-free microscopy time-lapses
 
-The proposed dynamic analysis framework is a computational pipeline which runs an automatic analysis on a live-cell, label-free microscopy time-lapse to detect cell divisions and cell deaths. It requires two types of channel: fluorescent channels to segment (i.e. find the regions of) the objects of interest (nuclei, cytoplasms, or cells), and a polarized channel to detect cell death events.
+**Authors :** Asma Chalabi, Eric Debreuve
+
+The proposed dynamic analysis framework is a computational pipeline which runs an automatic analysis on a live-cell time-lapse microscopy, to detect cell divisions and cell deaths. It requires two types of channels that are commonly used in time-lapse microscopy: any fluorescent channel to segment (i.e. find the regions of) the objects of interest (nuclei, cytoplasms, or cells), and a polarized channel to detect cell death events. Unlike other cell tracking analysis framework, this workflow does not require a specific channel for tracking nor a specific marker for cell death detection.
 
 ___
-*Note that the pipeline is fully functional for a single type of object of interest, typically cells. The joint handling of several types of object, typically nuclei and cells, is only partial at the moment.*
+
+**Note 1:** This repository is linked to a pypi project containing the main library ``cell_tracking_BC`` that is part of this submission to https://www.nature.com/srep/guestedited#imaging-of-cells-and-cellular-dynamics
+
+**Note 2:** The *deep_learning_image_analysis* pipeline is still under development.
+
+**Note 3:** The pipeline is fully functional for a single type of object of interest, typically cells. The joint handling of several types of object, typically nuclei and cells, is only partial at the moment.*
 ___
 
 
